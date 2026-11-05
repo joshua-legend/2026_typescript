@@ -20,3 +20,5 @@ const test = (a: string, b: string): string => {
 const test1 = (a: number): boolean => {
   return !!a;
 };
+
+const abc: any = "[1,2,3,4]";
